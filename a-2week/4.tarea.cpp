@@ -23,9 +23,6 @@ int main()
     else
     {
     }
-    else
-    {
-    }
   }
   else if (numHijos < 7)
   {
